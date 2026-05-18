@@ -1,5 +1,7 @@
 # murmur-plato-bridge
 
+
+![CI](https://github.com/SuperInstance/murmur-plato-bridge/actions/workflows/rust-ci.yml/badge.svg)
 Bridge between Murmur-agent's knowledge tensor and PLATO fleet rooms.
 
 ## What It Does
